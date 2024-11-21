@@ -1,4 +1,4 @@
-# The Complete Web Development Bootcamp
+# The Complete Web Development Bootcamp 🚀
 
 <br>
 
@@ -39,4 +39,4 @@ This repository contains all the codes from the ***["The Complete 2024 Web Devel
 
 <br>
 
-I strongly suggest you take this course. By the end, you will be fluent in programming and ready to create any website you can dream of. 🚀
+I strongly suggest you take this course. By the end, you will be fluent in programming and ready to create any website you dream of.
