@@ -2,7 +2,7 @@
 
 <br>
 
-This repository contains all the codes from the ***["The Complete 2024 Web Development Bootcamp"](https://www.udemy.com/course/the-complete-web-development-bootcamp/)*** course from Udemy. This course is ministered by **Dr. Angela Yu**, and cover a massive amount of tools and technologies, including:
+This repository contains all the codes from the ***["The Complete 2024 Web Development Bootcamp"](https://www.udemy.com/course/the-complete-web-development-bootcamp/)*** course from Udemy. This course is ministered by ***[Dr. Angela Yu](https://www.linkedin.com/in/angela-yu1/)***, and cover a massive amount of tools and technologies, including:
 
 <br>
 
