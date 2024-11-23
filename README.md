@@ -1,10 +1,10 @@
 # The Complete Web Development Bootcamp 🚀
 
-<br>
+<br />
 
 This repository contains all the codes from the ***["The Complete 2024 Web Development Bootcamp"](https://www.udemy.com/course/the-complete-web-development-bootcamp/)*** course from Udemy. This course is ministered by ***[Dr. Angela Yu](https://www.linkedin.com/in/angela-yu1/)***, and cover a massive amount of tools and technologies, including:
 
-<br>
+<be />
 
 - Front-End Web Development;
 - HTML 5;
